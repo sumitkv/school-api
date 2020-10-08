@@ -1,0 +1,11 @@
+- Make account / login in / signup 
+- Verify your account using email ID
+- Change password / forget password using verified email id
+- Authentication using JSON Web Token (JWT)
+- Access Token and Refersh Token both can be used 
+- Only admin has the power to decide the user groups i.e wheather the user is a super    user / teacher / a student. 
+- Admin can add/delete/edit any user in the database
+- Teacher can add/delete/edit details of any student
+- Student can only see their info
+- Database used in this project is PostgreSQL
+- Swagger is used to create user interface in this RestAPI project
